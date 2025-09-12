@@ -1,0 +1,14 @@
+---
+title: "Identifying Gaze Behavior Evolution via Temporal Fully-Weighted Scanpath Graphs"
+collection: publications
+category: conferences
+permalink: /publication/2023-lak-gaze
+excerpt: ''
+date: 2023-03-13
+venue: '13th International Learning Analytics and Knowledge Conference'
+#slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://doi.org/10.1145/3576050.3576117'
+#bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+citation: 'Davalos, E., et al. &quot;Identifying Gaze Behavior Evolution via Temporal Fully-Weighted Scanpath Graphs&quot; <i>Proceedings of the 13th International Learning Analytics and Knowledge Conference</i>. (2023): pp. 476-487.'
+---
+Eye-tracking technology has expanded our ability to quantitatively measure human perception. This rich data source has been widely used to characterize human behavior and cognition. However, eye-tracking analysis has been limited in its applicability, as contextualizing gaze to environmental artifacts is non-trivial. Moreover, the temporal evolution of gaze behavior through open-ended environments where learners are alternating between tasks often remains unclear. In this paper, we propose temporal fully-weighted scanpath graphs as a novel representation of gaze behavior and combine it with a clustering scheme to obtain high-level gaze summaries that can be mapped to cognitive tasks via network metrics and cluster mean graphs. In a case study with nurse simulation-based team training, our approach was able to explain changes in gaze behavior with respect to key events during the simulation. By identifying cognitive tasks via gaze behavior, learners’ strategies can be evaluated to create online performance metrics and personalized feedback.

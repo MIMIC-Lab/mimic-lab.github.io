@@ -23,7 +23,7 @@ repository               : "MIMIC-Lab/mimic-lab.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "logo.png"
   name             : "MIMIC Lab"
   pronouns         : # example: "she/her"  
   bio              : "Meaningful Interative Media and Intelligent Computing Lab"
@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=RPuuRXUAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # URL

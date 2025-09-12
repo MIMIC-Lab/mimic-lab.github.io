@@ -1,0 +1,9 @@
+<div class="w3-row">
+  <div class="w3-third">
+    <img src="{{ include.image_path }}" alt="">
+  </div>
+  <div class="w3-twothird">
+    <h3>{{ include.title }}</h3>
+    {{ include.description | markdownify }}
+  </div>
+</div>

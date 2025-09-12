@@ -1,0 +1,29 @@
+---
+title: "Automated assessment of team performance using multimodal Bayesian learning analytics"
+collection: publications
+category: conferences
+permalink: /publication/2022-iitsec-bayesian
+excerpt: ''
+date: 2022-12-01
+venue: '2022 Interservice/Industry Training, Simulation and Education Conference'
+#slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://gifttutoring.org/attachments/download/4746/2022_iitsec_MMA_22258.pdf'
+#bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+citation: 'Vatral, C., et al. &quot;Automated assessment of team performance using multimodal Bayesian learning analytics&quot; <i>Proceedings of the 2022 Interservice/Industry Training, Simulation and Education Conference</i>. (2022).'
+---
+This paper presents a case study of teams of soldiers training on dismounted battle drills in a mixed-reality training
+environment. Mixed-reality simulation-based training environments along with multimodal sensing devices have
+made it much easier to collect and analyze participant interaction and behavior data for evaluation and feedback.
+Advanced AI and machine learning algorithms have further enhanced the ability to create robust multi-dimensional
+individual and team performance models. The performance metrics computed within single training instances, can be
+extended to cover a full course of training scenarios. This provides valuable feedback to trainees and their instructors
+on their skill levels across cognitive, metacognitive, affective, and psychomotor skill dimensions. However, develop-
+ing objective data-driven performance metrics comes with a set of challenges that includes data collection and aggre-
+gation, pre-processing and alignment, data fusion, and the use of multimodal learning analytics (MMLA) algorithms
+to compute individual and team performance. We develop a generalized multilevel modeling framework for the train-
+ing domain and use machine learning algorithms to analyze the collected training data that spans video, speech, and
+simulation logs. We model teams of soldiers through multiple training scenarios and show their progression over time
+on both operationalized domain-specific performance metrics, as well as higher-level cognitive and metacognitive
+processes. We conclude with a discussion of how results from our analysis framework can be used to provide forma-
+tive feedback to trainees and suggestions for future training needs, as well as data-driven evidence to be used as part
+of a longer-term summative assessment system.
