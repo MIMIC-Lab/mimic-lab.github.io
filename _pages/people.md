@@ -21,5 +21,5 @@ redirect_from:
 <br>
 # Other Collaborators
 * [Deo Chima, Ph.D.](https://www.tnstate.edu/cae/Chimba.aspx) from Tennessee State University
-* [Ali Sekman, Ph.D.](https://www.tnstate.edu/computer_science/Dr_Sekmen.aspx) from Tennessee State University and [Pangea Tech Consulting](https://pangeatech.ai/)
+* [Ali Sekmen, Ph.D.](https://www.tnstate.edu/computer_science/Dr_Sekmen.aspx) from Tennessee State University and [Pangea Tech Consulting](https://pangeatech.ai/)
 * [Gautam Biswas, Ph.D.](https://my.vanderbilt.edu/gautambiswas/) from Vanderbilt University and the [Open-Ended Learning Environments Lab](https://www.vanderbilt.edu/oele/)
