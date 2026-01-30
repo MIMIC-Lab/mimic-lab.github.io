@@ -104,6 +104,14 @@
   }
 }
 
+/* Default (light): show light avatar, hide dark */
+.author__avatar.avatar-dark { display: none; }
+
+/* Dark mode: flip visibility */
+html[data-theme="dark"] .author__avatar.avatar-light { display: none; }
+html[data-theme="dark"] .author__avatar.avatar-dark  { display: inline-block; }
+
+
 .author__content {
   display: table-cell;
   vertical-align: top;

@@ -24,6 +24,8 @@ repository               : "MIMIC-Lab/mimic-lab.github.io"
 author:
   # Biographic information
   avatar           : "logo.png"
+  avatar-light     : "logo.png"
+  avatar-dark      : "logo-white.png"
   name             : "MIMIC Lab"
   pronouns         : # example: "she/her"  
   bio              : "Meaningful Interative Media and Intelligent Computing Lab"
